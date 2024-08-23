@@ -25,20 +25,8 @@ The datasets used for this analysis were sourced internally from ScalerMart's da
 1. **Enhance Customer Loyalty**: Introduce a tiered loyalty program with exclusive offers and early access to new products for frequent shoppers.
 2. **Expand Product Lines**: Increase product diversity by including emerging tech trends that appeal to younger demographics.
 3. **Competitive Strategy**: Implement dynamic pricing models to stay competitive and retain market share.
-4. **Personalized Marketing**: Use targeted marketing campaigns based on customer preferences and past purchasing behavior to improve engagement.
-
-## How to Use This Repository
-1. **Clone the Repository**:
-    ```bash
-    git clone https://github.com/yourusername/ScalerMart-Case-Study.git
-    ```
-2. **Explore the Jupyter Notebook**:
-    - Navigate to the `ScalerMart Case Study.ipynb` to see the detailed analysis and visualizations.
-3. **Review the Report**:
-    - Open `Scaler Mart Analysis Report.pdf` for a comprehensive summary of the findings and recommendations.
-4. **Analyze the Data**:
-    - The datasets in the `Data Folder` can be used to perform additional analysis or to replicate the study.
+4. **Personalized Marketing**: Use targeted marketing campaigns based on customer preferences and past purchasing behavior to improve engagement
 
 ## Contact
-For any questions or further discussions, please contact [Your Name] at [Your Email].
+For any questions or further discussions, please contact Parth Patel at parthpatel5340@gmail.com
 
